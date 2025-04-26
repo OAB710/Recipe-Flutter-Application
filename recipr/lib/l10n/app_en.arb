@@ -77,8 +77,3 @@
   "rate_recipe_label": "Rate this Recipe",
   "your_rating_label": "Your Rating"
 }
-
-{
-  "title": "Welcome to Flutter",
-  "greeting": "Hello!"
-}
